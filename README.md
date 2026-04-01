@@ -65,7 +65,7 @@ Installation & Setup
 
 1️. Clone the repository
 
-git clone https://github.com/your-username/fasaldoc.git
+git clone https://github.com/bee2422/fasaldoc.git
 cd fasaldoc
 
 2️. Backend Setup (if using Flask)
